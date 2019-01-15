@@ -32,7 +32,6 @@ public class TemperatureDriver {
         dateTemperatures.foreach(dateTemperature ->
                 System.out.println("dateMonth:" + dateTemperature._1 + ", temperature = " + dateTemperature._2));
 
-        // 4.组合键
 
 
 
